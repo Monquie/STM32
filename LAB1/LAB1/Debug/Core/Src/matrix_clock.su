@@ -1,0 +1,4 @@
+matrix_clock.c:52:6:setRow	16	static
+matrix_clock.c:63:6:setCol	16	static
+matrix_clock.c:74:6:clearNumberOnClock	16	static
+matrix_clock.c:85:6:updateClock	16	static

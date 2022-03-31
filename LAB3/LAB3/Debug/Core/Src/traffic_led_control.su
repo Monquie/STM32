@@ -1,0 +1,5 @@
+traffic_led_control.c:20:9:ERROR_HANDLING	16	static
+traffic_led_control.c:24:6:LED_TRAFFIC_STORE_BUFFER	16	static
+traffic_led_control.c:28:6:LED_TRAFFIC_LOAD_BUFFER	4	static
+traffic_led_control.c:36:6:LED_TRAFFIC_INIT	8	static
+traffic_led_control.c:46:6:LED_TRAFFIC_RUN	8	static

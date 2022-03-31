@@ -1,0 +1,5 @@
+function.c:4:6:runLed1	8	static
+function.c:7:6:runLed2	8	static
+function.c:10:6:runLed3	8	static
+function.c:13:6:runLed4	8	static
+function.c:16:6:runLed5	8	static
